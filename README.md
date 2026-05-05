@@ -16,6 +16,8 @@ Unreal Engine – Correct forward/up axis configuration
 
 Custom – Manual axis control for any engine or DCC application
 
+![BatchForge Panel](screenshot-04.png)
+
 ## 💾 Multi-Format Export
 Export each object simultaneously to multiple formats:
 
