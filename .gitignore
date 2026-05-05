@@ -1,0 +1,70 @@
+# ============================================================
+# BatchForge Blender Batch Export Tool
+# .gitignore
+# ============================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Blender specific
+*.blend1
+*.blend2
+*.blend#
+
+# Export test files (if you test locally)
+Exports/
+exports/
+test_exports/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+batch_export_log_*.txt
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# ZIP archives (release builds)
+*.zip
+*.7z
+*.rar
+
+# Blender addon build artifacts
+*.pyc
+*.pyo
