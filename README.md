@@ -21,10 +21,14 @@ Export each object simultaneously to multiple formats:
 
 Blend – FBX – GLB/GLTF – OBJ – STL – USD/USDC
 
+![BatchForge Panel](screenshot-01.jpg)
+
 ## 🔄 Transform Control
 Reset Location/Rotation/Scale with custom values
 Apply Scale – Automatically bakes object scale to mesh data while preserving visual dimensions
 Use Current Transform – Keep scene position and rotation for level design workflows
+
+![BatchForge Panel](screenshot-02.png)
 
 ## 📝 Intelligent Naming
 Mesh Name – Use object names as filenames
